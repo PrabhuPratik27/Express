@@ -4,7 +4,11 @@
   "description": "simple tp app",
   "main": "app.js",
   "dependencies": {
-    "express": "^4.16.4"
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "express-validator": "^5.3.1",
+    "mongojs": "^2.6.0"
   },
   "devDependencies": {},
   "scripts": {
